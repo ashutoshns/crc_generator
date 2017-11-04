@@ -8,4 +8,4 @@ This is a code of hardware implimentation of a CRC code genarator using Mentor G
 ![layout image unable to load](https://raw.githubusercontent.com/ashutoshns/crc_generator/master/layout.jpg)
 
 ## output
-![output image unable to load](https://raw.githubusercontent.com/ashutoshns/crc_generator/master/out.jpg)
+![output image unable to load](https://raw.githubusercontent.com/ashutoshns/crc_generator/master/out2.jpg)
